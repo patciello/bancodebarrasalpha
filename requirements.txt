@@ -22,7 +22,7 @@ fastapi==0.112.2
 fastcore==1.7.4
 fastlite==0.0.11
 filelock==3.15.4
-Flask==3.0.3
+Flask==2.3.2
 flet==0.24.0
 flet-core==0.24.0
 flet-runtime==0.24.0
@@ -55,7 +55,7 @@ PyGetWindow==0.0.9
 Pygments==2.18.0
 pyinstaller==6.10.0
 pyinstaller-hooks-contrib==2024.8
-pymongo==4.8.0
+pymongo==4.5.0
 PyMsgBox==1.0.9
 pyparsing==3.1.2
 pyperclip==1.9.0
@@ -63,6 +63,7 @@ pypng==0.20220715.0
 PyRect==0.2.0
 PyScreeze==0.1.30
 python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
 python-fasthtml==0.5.1
 python-multipart==0.0.9
 python-slugify==8.0.4
@@ -88,7 +89,6 @@ tzdata==2024.1
 urllib3==2.2.2
 uvicorn==0.30.6
 virtualenv==20.26.3
-vercel-python-wsgi==0.5.4
 watchdog==4.0.2
 watchfiles==0.24.0
 websockets==13.0.1
